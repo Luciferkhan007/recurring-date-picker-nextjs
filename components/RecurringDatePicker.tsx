@@ -1,3 +1,5 @@
+'use client';
+
 import RecurrenceOptions from './RecurrenceOptions';
 import DateRangePicker from './DateRangePicker';
 import CalendarPreview from './CalendarPreview';
@@ -12,3 +14,4 @@ export default function RecurringDatePicker() {
     </div>
   );
 }
+
